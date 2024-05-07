@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    
+    background-image: -moz-linear-gradient;
+
+}
+image{
+
+    width: 1440px;
+    height: 800px;
+    top: 2099px;
+    left: -4001px;
+
+}
+img2{
+    width: hug(116px);
+    height: hug(26px);
+    top: 64px;
+    left: 114px;
+    gap: 10px;
+}
+.imagetext{ 
+    top: 224px;
+    left: 117px;
+
+    
+}
+
+.image_container{
+    background-color: aquamarine;
+}
+
